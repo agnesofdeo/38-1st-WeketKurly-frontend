@@ -103,3 +103,5 @@
 > 이 프로젝트는 [마켓컬리](https://www.kurly.com/main) 사이트를 참조하여 학습 목적으로 제작되었습니다. <br />
 > 실무의 플로우를 바탕으로 진행된 프로젝트이지만 무단 배포 시 법적으로 문제될 수 있습니다.
 
+## 🔗 개인 회고록
+[agnesofdeo.log [>wecode] 1차 프로젝트 회고록](https://velog.io/@agnesofdeo/wecode-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
